@@ -1,5 +1,5 @@
-**Product List Application
-**This Android application demonstrates how to display a list of products using RecyclerView with a ViewModel and LiveData. It includes three main screens: Main Screen, Product List Screen, and Product Detail Screen.
+**Product List Application**
+This Android application demonstrates how to display a list of products using RecyclerView with a ViewModel and LiveData. It includes three main screens: Main Screen, Product List Screen, and Product Detail Screen.
 
 
 Screenshots:
@@ -10,16 +10,16 @@ Screenshots:
 
 
 
-Features
-Main Screen: Contains a button to navigate to the product list.
-Product List Screen: Displays a list of products fetched from a repository.
-Product Detail Screen: Shows detailed information about a selected product.
-File Structure
-Kotlin Files
+**Features**
+**Main Screen:** Contains a button to navigate to the product list.
+**Product List Screen:** Displays a list of products fetched from a repository.
+**Product Detail Screen:** Shows detailed information about a selected product.
+
+
+**File Structure**
+
+**Kotlin Files**
 MainActivity.kt
-
-
-
 The main activity that starts the ProductListActivity.
 ProductListActivity.kt
 
