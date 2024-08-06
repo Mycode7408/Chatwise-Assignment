@@ -1,5 +1,5 @@
-Product List Application
-This Android application demonstrates how to display a list of products using RecyclerView with a ViewModel and LiveData. It includes three main screens: Main Screen, Product List Screen, and Product Detail Screen.
+**Product List Application
+**This Android application demonstrates how to display a list of products using RecyclerView with a ViewModel and LiveData. It includes three main screens: Main Screen, Product List Screen, and Product Detail Screen.
 
 
 Screenshots:
